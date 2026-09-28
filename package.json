@@ -1,0 +1,9 @@
+{
+  "name": "joga-seberozvoje",
+  "version": "1.0.0",
+  "description": "Jóga seberozvoje website with Vercel serverless functions",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.8"
+  }
+}

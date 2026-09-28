@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/about</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/about" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/services</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/services" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/free-practice</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/free-practice" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/free-practice" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/blog</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/blog" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/contact</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/contact" />
+  </url>
+  <url>
+    <loc>https://jogaseberozvoje.cz/cs/story</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://jogaseberozvoje.cz/cs/story" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jogaseberozvoje.cz/story" />
+  </url>
+</urlset>

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Allow AI Search Engines & Web Browsing Agents (Agentic Browsing)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://jogaseberozvoje.cz/sitemap.xml
